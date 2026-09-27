@@ -1,7 +1,8 @@
 html {
-  background-color: black
+  background-color: rgb(253, 193, 193)
 }
 
 body {
-  background-color: blue
+  background-color: rgb(232, 78, 190);
+  color: rgb(244, 241, 241)
 }
